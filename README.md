@@ -1,6 +1,6 @@
 # Intro
 
-This repository is a blog website bult with flask and bootstrap
+This repository is a blog website built with flask and bootstrap
 
 ## Features
 - User authentication: Users can register and log in to the application.
